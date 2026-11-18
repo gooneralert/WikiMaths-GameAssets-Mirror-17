@@ -1,0 +1,134 @@
+{
+  "mirror/peggle-wow-edition/core/reactos.img": {
+    "size": 734003200,
+    "parts": [
+      {
+        "path": "mirror/peggle-wow-edition/core/reactos.img.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-wow-edition/core/reactos.img.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-wow-edition/core/reactos.img.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-wow-edition/core/reactos.img.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-wow-edition/core/reactos.img.part005",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-wow-edition/core/reactos.img.part006",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-wow-edition/core/reactos.img.part007",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-wow-edition/core/reactos.img.part008",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-wow-edition/core/reactos.img.part009",
+        "size": 14003200
+      }
+    ]
+  },
+  "mirror/peggle-wow-edition/state.bin": {
+    "size": 390309588,
+    "parts": [
+      {
+        "path": "mirror/peggle-wow-edition/state.bin.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-wow-edition/state.bin.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-wow-edition/state.bin.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-wow-edition/state.bin.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-wow-edition/state.bin.part005",
+        "size": 30309588
+      }
+    ]
+  },
+  "mirror/peggle-nights/core/reactos.img": {
+    "size": 734003200,
+    "parts": [
+      {
+        "path": "mirror/peggle-nights/core/reactos.img.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-nights/core/reactos.img.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-nights/core/reactos.img.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-nights/core/reactos.img.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-nights/core/reactos.img.part005",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-nights/core/reactos.img.part006",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-nights/core/reactos.img.part007",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-nights/core/reactos.img.part008",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-nights/core/reactos.img.part009",
+        "size": 14003200
+      }
+    ]
+  },
+  "mirror/peggle-nights/state.bin": {
+    "size": 423663356,
+    "parts": [
+      {
+        "path": "mirror/peggle-nights/state.bin.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-nights/state.bin.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-nights/state.bin.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-nights/state.bin.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-nights/state.bin.part005",
+        "size": 63663356
+      }
+    ]
+  }
+}
