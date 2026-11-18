@@ -1,0 +1,69 @@
+{
+  "slug": "peggle-wow-edition",
+  "title": "Peggle WoW Edition",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/pegg/wow/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/pegg/wow/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/pegwow.webp",
+  "baseUrl": "https://truffled.lol/games/pegg/wow/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/pegg/wow/index.html",
+  "status": "done",
+  "sizeBytes": 54581884,
+  "assetCount": 16,
+  "known404": [
+    "https://truffled.lol/games/pegg/core/state.bin",
+    "https://truffled.lol/games/pegg/core/genroms/multiboot.bin",
+    "https://truffled.lol/games/pegg/core/genroms/kernel.bin"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/pegg/core/state.bin",
+      "error": "HTTP 404 for https://truffled.lol/games/pegg/core/state.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/pegg/core/genroms/multiboot.bin",
+      "error": "HTTP 404 for https://truffled.lol/games/pegg/core/genroms/multiboot.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/pegg/core/genroms/kernel.bin",
+      "error": "HTTP 404 for https://truffled.lol/games/pegg/core/genroms/kernel.bin",
+      "status": 404
+    },
+    {
+      "url": "(crawl)",
+      "error": "crawl stalled; abandoned hung downloads",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T16:55:33.117Z",
+  "verifiedAt": "2026-11-18T10:52:47.336Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Peggle WoW Edition",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 800,
+      "height": 600
+    },
+    "nonBlack": 4095,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}
